@@ -10,7 +10,7 @@ The `~$…docx` file is a Word lock file. Ignore it and never commit it.
 
 ## Project
 
-A restaurant table booking web service, built as a student MVP by a 5-person team. The MVP deadline is 2026-11-25. Guests search for free tables and book them. Staff manage halls, tables, bookings and seating, and see analytics.
+A restaurant table booking web service, built as a student MVP. The spec lists a 5-person team, but in practice one developer writes all the code. The MVP deadline is 2026-11-25. Guests search for free tables and book them. Staff manage halls, tables, bookings and seating, and see analytics.
 
 Out of scope for v1: payments, real SMS/e-mail (notifications are mock only), POS or calendar integration, mobile app, and multi-language support.
 
